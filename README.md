@@ -21,3 +21,11 @@ and sends high-fit roles directly to Telegram.
 ## Workflow
 The workflow runs on a schedule, processes jobs one by one to avoid rate limits, 
 evaluates job fit using AI, stores results, and alerts only high-scoring roles.
+
+**End-to-end n8n automation pipeline**
+![n8n Workflow](./Screenshot%202026-02-02%20094627.png)
+
+### Alerts & Tracking
+**Telegram alerts and Google Sheets job tracking**
+![Telegram Alerts](./Screenshot%202026-02-02%20094654.png)
+
